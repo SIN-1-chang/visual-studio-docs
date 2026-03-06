@@ -36,6 +36,6 @@ sidebar: false
 在浙江大学就读期间，可以使用浙江大学邮箱（`@zju.edu.cn`）来免费获取 Adobe 系列软件的正版使用权，可以从以下两个渠道获取软件：
 
 1. 前往[浙江大学校园正版化软件平台](http://ms.zju.edu.cn/)
-2. 前往[ Adobe 官方网站](https://www.adobe.com/cn)
+2. 前往[ Adobe 官方网站](https://helpx.adobe.com/cn/download-install/apps.html)
 
 在使用这两处网站时，较为推荐使用 Creative Cloud 工具，在该工具内下载具体软件，可以保持软件更新同步。
