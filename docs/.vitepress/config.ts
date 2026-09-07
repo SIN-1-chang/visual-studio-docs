@@ -25,12 +25,12 @@ export default defineConfig({
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:locale", content: "zh-CN" }],
     ["meta", { property: "og:title", content: "Teek | VitePress Theme" }],
-    ["meta", { property: "og:site_name", content: "2025 视觉工作室" }],
+    ["meta", { property: "og:site_name", content: "2026 视觉工作室" }],
     ["meta", { property: "og:image", content: "" }],
     ["meta", { property: "og:url", content: "" }],
     ["meta", { property: "og:description", description }],
     ["meta", { name: "description", description }],
-    ["meta", { name: "author", content: "老官童鞋gogo" }],
+    ["meta", { name: "author", content: "畅行天下" }],
     // 禁止浏览器缩放
     // [
     //   "meta",
