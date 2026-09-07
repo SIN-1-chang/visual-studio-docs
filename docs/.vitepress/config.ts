@@ -9,7 +9,7 @@ const description = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:'/visual-stdio-docs/',
+  base:'/visual-studio-docs/',
   extends: teekConfig,
   title: "2025 视觉工作室",
   description: description,
