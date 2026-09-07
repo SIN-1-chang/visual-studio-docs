@@ -11,7 +11,7 @@ const description = [
 export default defineConfig({
   base:'/visual-studio-docs/',
   extends: teekConfig,
-  title: "2025 视觉工作室",
+  title: "2026 视觉工作室",
   description: description,
   cleanUrls: false,
   lastUpdated: true,
