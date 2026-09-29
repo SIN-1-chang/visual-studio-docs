@@ -110,6 +110,13 @@ export default defineConfig({
       provider: "local",
     },
   },
+  vue: {
+    template: {
+      transformAssetUrls: {
+        includeAbsolute: false,
+      },
+    },
+  },
   vite: {
     plugins: [llmstxt() as any],
   },
