@@ -119,7 +119,6 @@ export default defineConfig({
   },
   vite: {
     plugins: [llmstxt() as any],
-    publicDir: './docs/public'
   },
   // transformHtml: (code, id, context) => {
   //   if (context.page !== "404.md") return code;
