@@ -10,9 +10,6 @@ const description = [
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:'/visual-studio-docs/',
-  vite:{
-    publicDir: './docs/public', // 新增这一行，指定静态资源目录
-  },
   extends: teekConfig,
   title: "2026 视觉工作室",
   description: description,
@@ -122,6 +119,7 @@ export default defineConfig({
   },
   vite: {
     plugins: [llmstxt() as any],
+    publicDir: './docs/public'
   },
   // transformHtml: (code, id, context) => {
   //   if (context.page !== "404.md") return code;
